@@ -1,0 +1,28 @@
+# node modules
+node_modules/
+
+# env file (JUDA MUHIM)
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# build files
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# uploads (agar bo‘lsa)
+uploads/
+
+# coverage
+coverage/
